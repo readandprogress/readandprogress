@@ -5,7 +5,7 @@
 
 ----
 
-Hey there! I go by Reading. I'm an aspiring technical writer who is deeply passionate about Linux, Cybersecurity, Web Development and Homelabing. Aside of my various tech projects, like my personal [site](https://reading.is-a.dev/). I also enjoy writing fiction and would love to be a published author one day.
+Hey there! I go by Reading and I'm an aspiring technical writer who is deeply passionate about Linux, Cybersecurity, Web Development and Homelabing. Aside from my various tech projects, like my personal [site](https://reading.is-a.dev/). I also enjoy writing fiction and would love to be a published author one day!
 
 # Chat with Me! 
 
